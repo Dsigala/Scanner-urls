@@ -15,5 +15,8 @@
 git clone https://github.com/Dsigala/Scanner-urls.git
 cd Scanner-urls
 
+# Instalar dependencias
+pip install -r requirements.txt
+
 # Ejecutar (se auto-configura)
 python scannerurls.py
