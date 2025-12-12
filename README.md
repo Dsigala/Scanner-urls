@@ -52,3 +52,5 @@ Comunidad de Python
 Sitios de testing legales
 
 Contribuidores y testers
+
+# ⭐ Si te gusta este proyecto, dale una estrella en GitHub!
