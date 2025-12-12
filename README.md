@@ -1,3 +1,6 @@
+<img width="1157" height="693" alt="image" src="https://github.com/user-attachments/assets/ae64f30b-0ecd-478b-945e-a643c4282f2f" />
+
+
 ## ✨ Características
 
 - **Auto-Setup completo**: Crea entorno virtual e instala dependencias automáticamente
