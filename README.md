@@ -24,8 +24,10 @@ python scannerurls.py
 # 📊 Ejemplo de Resultado
 
 [!] VULNERABLE: http://testphp.vulnweb.com/artists.php?artist=1'
-    [+] URL_PARAM: Inyección SQL en parámetro: artist
-        Payload: http://testphp.vulnweb.com/artists.php?artist=1'
+
+[+] URL_PARAM: Inyección SQL en parámetro: artist
+    
+Payload: http://testphp.vulnweb.com/artists.php?artist=1'
 
 # 🛡️ Seguridad y Ética
 # ⚠️ ADVERTENCIA: USO SOLO PARA FINES EDUCATIVOS Y TESTING AUTORIZADO
